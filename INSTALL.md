@@ -18,4 +18,5 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/calibre/a
 2. Under Main interface, Click on Adjust colors;
 3. Set Color-palette as Dark and Import the theme;
 4. Press Ok and Apply;
-5. Boom! It's working ✨
+5. You will have set color of color grid by yourself;
+6. Boom! It's working ✨
